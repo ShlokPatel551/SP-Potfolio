@@ -22,11 +22,11 @@ export default function About() {
             </h2>
             <div className="space-y-4 text-gray-600 dark:text-gray-400 text-base leading-relaxed">
               <p>
-                I&apos;m a Computer Engineering professional currently pursuing my
-                Master of Science in Information Technology at the University of
-                North America, Virginia. I bring hands-on experience in
-                back-end development, network infrastructure, and Python
-                programming.
+                I&apos;m an IT professional holding a Master of Science in
+                Information Technology from the University of North America,
+                Virginia. CompTIA A+ and Network+ certified, I bring hands-on
+                experience in systems administration, network infrastructure,
+                and Python-based automation.
               </p>
               <p>
                 At Sunrise Wholesalers Inc., I design and maintain software
@@ -95,7 +95,7 @@ export default function About() {
           {[
             { value: "12+", label: "Certifications & badges" },
             { value: "15+", label: "Projects shipped" },
-            { value: "MS IT", label: "Currently pursuing" },
+            { value: "MS IT", label: "Recently completed" },
             { value: "NJ, USA", label: "Based in" },
           ].map((stat) => (
             <div key={stat.label} className="text-center sm:text-left">
