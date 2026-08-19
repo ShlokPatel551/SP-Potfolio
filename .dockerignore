@@ -1,0 +1,18 @@
+Dockerfile
+.dockerignore
+.git
+.gitignore
+node_modules
+.next
+out
+build
+npm-debug.log*
+.env*
+.vercel
+*.tsbuildinfo
+README.md
+AGENTS.md
+CLAUDE.md
+screenshot*.png
+Sap.png
+Shlok Patel CV.pdf
