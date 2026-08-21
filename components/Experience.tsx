@@ -2,15 +2,15 @@ const experiences = [
   {
     company: "Liffio Pvt. Ltd.",
     location: "Remote",
-    role: "Chief Financial Officer (CFO)",
-    period: "2025 – Present",
+    role: "Founder",
+    period: "2026 – Present",
     current: true,
     bullets: [
-      "Oversee all financial operations, budgeting, and forecasting for a growing Instagram DM automation SaaS platform.",
-      "Drive financial strategy and resource allocation to support product growth, affiliate programs, and agency expansion.",
-      "Manage revenue reporting, subscription billing reconciliation, and investor-ready financial statements.",
-      "Establish financial controls, cost optimization frameworks, and pricing models across subscription tiers.",
-      "Collaborate with founding team on go-to-market financial planning and partnership deal structuring.",
+      "Founded and lead an Instagram DM automation SaaS built on the official Instagram API — comment-to-DM, post scheduling, bio link pages, affiliate program, and agency multi-account management.",
+      "Own product vision and roadmap end-to-end: shipped the core comment-to-DM engine with human-like 10–60s delay, plus scheduler, affiliate, and agency modules.",
+      "Drive go-to-market across creators, coaches, and small business owners — positioning, pricing tiers, trial reel content strategy, and conversion funnels.",
+      "Set up the full company operating stack: engineering hiring, infra and vendor decisions, financial controls, and legal/compliance for a global SaaS.",
+      "Lead all fundraising, partnership, and investor communications; report on growth, retention, and unit economics.",
     ],
   },
   {
